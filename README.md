@@ -60,7 +60,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## License
 * For more information about the license of the property-listing application usage [click here](LICENSE).
-* This Project is also contributed by other 4 peoples.
+* This Project is also contributed by other 5 peoples.
 
 ## Contributing
 
